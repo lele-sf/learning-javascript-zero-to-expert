@@ -4,8 +4,8 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 
 ## Table of Contents
 
-1. [JavaScript Fundamentals - Part 1](#javascript-fundamentals-part-1)
-2. [JavaScript Fundamentals - Part 2](#javascript-fundamentals-part-2)
+1. [JavaScript Fundamentals - Part 1](#javascript-fundamentals---part-1)
+2. [JavaScript Fundamentals - Part 2](#javascript-fundamentals---part-2)
 3. [Future Sections](#future-sections)
 
 ---
