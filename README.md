@@ -14,13 +14,13 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 
 Part 1 covers essential JavaScript concepts such as variables, data types, operators, and conditionals.
 
-[Link to Part 1 README.md](/path-to-part-1-readme.md)
+[Link to Part 1 README.md](https://github.com/lele-sf/learning-javascript-zero-to-expert/blob/main/01-Fundamentals-Part-1/starter/README.md)
 
 ## JavaScript Fundamentals - Part 2
 
 Part 2 delves deeper into JavaScript, exploring strict mode, functions, and working with data structures like arrays and objects.
 
-[Link to Part 2 README.md](/path-to-part-2-readme.md)
+[Link to Part 2 README.md](https://github.com/lele-sf/learning-javascript-zero-to-expert/blob/main/02-Fundamentals-Part-2/starter/README.md)
 
 
 ## Future Sections
