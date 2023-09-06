@@ -15,19 +15,19 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 
 Part 1 covers essential JavaScript concepts such as variables, data types, operators, and conditionals.
 
-[Link to Part 1](https://github.com/lele-sf/learning-javascript-zero-to-expert/blob/main/01-Fundamentals-Part-1/starter)
+[Link to Part 1](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/01-Fundamentals-Part-1)
 
 ## JavaScript Fundamentals - Part 2
 
 Part 2 delves deeper into JavaScript, exploring strict mode, functions, and working with data structures like arrays and objects.
 
-[Link to Part 2](https://github.com/lele-sf/learning-javascript-zero-to-expert/blob/main/02-Fundamentals-Part-2/starter)
+[Link to Part 2](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/02-Fundamentals-Part-2)
 
 ## Developer Skills & Editor Setup
 
 This section covers essential developer skills and the setup of your code editor environment.
 
-[Link to Developer Skills & Editor Setup](https://github.com/lele-sf/learning-javascript-zero-to-expert/blob/main/03-Developer-Skills-Editor-Setup/starter)
+[Link to Developer Skills & Editor Setup](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/03-Developer-Skills)
 
 ## Future Sections
 
