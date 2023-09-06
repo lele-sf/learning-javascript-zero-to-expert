@@ -6,7 +6,8 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 
 1. [JavaScript Fundamentals - Part 1](#javascript-fundamentals---part-1)
 2. [JavaScript Fundamentals - Part 2](#javascript-fundamentals---part-2)
-3. [Future Sections](#future-sections)
+3. [Developer Skills & Editor Setup](#developer-skills--editor-setup)
+4. [Future Sections](#future-sections)
 
 ---
 
@@ -22,10 +23,16 @@ Part 2 delves deeper into JavaScript, exploring strict mode, functions, and work
 
 [Link to Part 2](https://github.com/lele-sf/learning-javascript-zero-to-expert/blob/main/02-Fundamentals-Part-2/starter)
 
+## Developer Skills & Editor Setup
+
+This section covers essential developer skills and the setup of your code editor environment.
+
+[Link to Developer Skills & Editor Setup](https://github.com/lele-sf/learning-javascript-zero-to-expert/blob/main/03-Developer-Skills-Editor-Setup/starter)
 
 ## Future Sections
 
 ...
+
 
 
 ## Acknowledgments
