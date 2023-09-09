@@ -38,7 +38,7 @@ This section consists of three projects that introduce fundamental concepts of w
 
 This is the first project in this section. Simple JavaScript game that challenges you to guess the correct number between 1 and 20.
 
-[Link to Guess My Number!](/path-to-guess-my-number)
+[Link to Guess My Number!](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/04-Guess-My-Number)
 
 ## Future Sections
 
