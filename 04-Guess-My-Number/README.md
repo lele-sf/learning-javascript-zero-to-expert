@@ -2,7 +2,7 @@
 
 Welcome to the "Guess My Number!" game project. This simple JavaScript game challenges you to guess the correct number between 1 and 20. Are you up for the challenge?
 
-[Live Preview](...)
+[Live Preview](https://lele-sf.github.io/learning-javascript-zero-to-expert/04-Guess-My-Number/)
 
 ## How to Play
 
