@@ -8,7 +8,8 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 2. [JavaScript Fundamentals - Part 2](#javascript-fundamentals---part-2)
 3. [Developer Skills & Editor Setup](#developer-skills--editor-setup)
 4. [Project 1: Guess My Number!](#project-1-guess-my-number)
-5. [Future Sections](#future-sections)
+5. [Project 2: Modal Window](#project-2-modal-window)
+6. [Future Sections](#future-sections)
 
 ---
 
@@ -39,6 +40,12 @@ This section consists of three projects that introduce fundamental concepts of w
 This is the first project in this section. Simple JavaScript game that challenges you to guess the correct number between 1 and 20.
 
 [Link to Guess My Number!](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/04-Guess-My-Number)
+
+### Project 2: Modal Window
+
+The second project in this section demonstrates the creation of a modal window using HTML, CSS, and JavaScript.
+
+[Link to Modal Window](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/05-Modal)
 
 ## Future Sections
 
