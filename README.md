@@ -9,7 +9,9 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 3. [Developer Skills & Editor Setup](#developer-skills--editor-setup)
 4. [Project 1: Guess My Number!](#project-1-guess-my-number)
 5. [Project 2: Modal Window](#project-2-modal-window)
-6. [Future Sections](#future-sections)
+6. [Project 3: Pig Game](#project-3-pig-game)
+7. [Future Sections](#future-sections)
+
 
 ---
 
@@ -46,6 +48,12 @@ This is the first project in this section. Simple JavaScript game that challenge
 The second project in this section demonstrates the creation of a modal window using HTML, CSS, and JavaScript.
 
 [Link to Modal Window](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/05-Modal)
+
+### Project 3: Pig Game
+
+The third project in this section is an interactive two-player dice-rolling game. Roll the dice, accumulate points, and aim for victory!
+
+[Link to Pig Game](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/06-Pig-Game)
 
 ## Future Sections
 
