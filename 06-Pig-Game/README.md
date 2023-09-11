@@ -2,7 +2,7 @@
 
 Welcome to the "Pig Game" project. This interactive JavaScript game pits two players against each other in a fun and challenging dice-rolling competition.
 
-[Live Preview](https://lele-sf.github.io/learning-javascript-zero-to-expert/05-Pig-Game/)
+[Live Preview](https://lele-sf.github.io/learning-javascript-zero-to-expert/06-Pig-Game/)
 
 ## How to Play
 
