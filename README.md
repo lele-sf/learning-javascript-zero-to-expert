@@ -59,7 +59,7 @@ The third project in this section is an interactive two-player dice-rolling game
 
 This section explores the inner workings of JavaScript, covering topics like the JavaScript Engine and Runtime, Execution Contexts and The Call Stack, Scope and The Scope Chain, Variable Environment: Hoisting and The TDZ, The 'this' Keyword, Regular Functions vs. Arrow Functions, and Primitives vs. Objects.
 
-[Link to JavaScript - Behind the Scenes]()
+[Link to JavaScript - Behind the Scenes](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/07-Behind-the-Scenes)
 
 ## Future Sections
 
