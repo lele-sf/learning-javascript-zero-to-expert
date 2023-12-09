@@ -11,7 +11,8 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 5. [Project 2: Modal Window](#project-2-modal-window)
 6. [Project 3: Pig Game](#project-3-pig-game)
 7. [How JavaScript Works Behind the Scenes](#how-javascript-works-behind-the-scenes)
-8. [Future Sections](#future-sections)
+8. [Data Structures, Modern Operators and Strings](#data-structures-modern-operators-and-strings)
+9. [Future Sections](#future-sections)
 
 ---
 
@@ -60,6 +61,12 @@ The third project in this section is an interactive two-player dice-rolling game
 This section explores the inner workings of JavaScript, covering topics like the JavaScript Engine and Runtime, Execution Contexts and The Call Stack, Scope and The Scope Chain, Variable Environment: Hoisting and The TDZ, The 'this' Keyword, Regular Functions vs. Arrow Functions, and Primitives vs. Objects.
 
 [Link to JavaScript - Behind the Scenes](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/07-Behind-the-Scenes)
+
+## Data Structures, Modern Operators and Strings
+
+This section covers various data structures and modern JavaScript operators, including destructuring arrays and objects, the spread operator, rest pattern and parameters, short-circuiting, nullish coalescing operator, for-of loop, enhanced object literals, optional chaining, looping through objects, sets, maps, and string manipulation.
+
+[Link to Data Structures, Modern Operators and Strings](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/08-Data-Structures-Operators)
 
 ## Future Sections
 
