@@ -73,7 +73,7 @@ This section covers various data structures and modern JavaScript operators, inc
 
 This section explores advanced JavaScript function concepts, including default parameters, argument passing (value vs. reference), first-class and higher-order functions, callbacks, function returning functions, call and apply methods, bind method, IIFE, and closures.
 
-[Link to A Closer Look at Functions](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/09-A-Closer-Look-at-Functions)
+[Link to A Closer Look at Functions](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/09-Functions)
 
 ## Future Sections
 
