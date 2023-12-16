@@ -12,7 +12,8 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 6. [Project 3: Pig Game](#project-3-pig-game)
 7. [How JavaScript Works Behind the Scenes](#how-javascript-works-behind-the-scenes)
 8. [Data Structures, Modern Operators and Strings](#data-structures-modern-operators-and-strings)
-9. [Future Sections](#future-sections)
+9. [A Closer Look at Functions](#a-closer-look-at-functions)
+10. [Future Sections](#future-sections)
 
 ---
 
@@ -67,6 +68,12 @@ This section explores the inner workings of JavaScript, covering topics like the
 This section covers various data structures and modern JavaScript operators, including destructuring arrays and objects, the spread operator, rest pattern and parameters, short-circuiting, nullish coalescing operator, for-of loop, enhanced object literals, optional chaining, looping through objects, sets, maps, and string manipulation.
 
 [Link to Data Structures, Modern Operators and Strings](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/08-Data-Structures-Operators)
+
+## A Closer Look at Functions
+
+This section explores advanced JavaScript function concepts, including default parameters, argument passing (value vs. reference), first-class and higher-order functions, callbacks, function returning functions, call and apply methods, bind method, IIFE, and closures.
+
+[Link to A Closer Look at Functions](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/09-A-Closer-Look-at-Functions)
 
 ## Future Sections
 
