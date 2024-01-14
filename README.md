@@ -13,7 +13,9 @@ Welcome to my JavaScript learning journey! As I progress through this course, I'
 7. [How JavaScript Works Behind the Scenes](#how-javascript-works-behind-the-scenes)
 8. [Data Structures, Modern Operators and Strings](#data-structures-modern-operators-and-strings)
 9. [A Closer Look at Functions](#a-closer-look-at-functions)
-10. [Future Sections](#future-sections)
+10. [Working With Arrays](#working-with-arrays)
+11. [Project 4: "Bankist" App](#project-4-bankist-app)
+12. [Future Sections](#future-sections)
 
 ---
 
@@ -74,6 +76,18 @@ This section covers various data structures and modern JavaScript operators, inc
 This section explores advanced JavaScript function concepts, including default parameters, argument passing (value vs. reference), first-class and higher-order functions, callbacks, function returning functions, call and apply methods, bind method, IIFE, and closures.
 
 [Link to A Closer Look at Functions](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/09-Functions)
+
+## Working With Arrays
+
+This section covers essential array methods, DOM element creation, data transformations using map, filter, reduce, and more.
+
+[Link to Working With Arrays](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/10-Working-With-Arrays)
+
+## Project 4: "Bankist" App
+
+The "Bankist" app provides a simulated banking experience with multiple accounts. Explore the world of finance with this interactive banking application.
+
+[Link to "Bankist" App](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/11-Bankist-App)
 
 ## Future Sections
 
