@@ -81,7 +81,7 @@ This section explores advanced JavaScript function concepts, including default p
 
 This section covers essential array methods, DOM element creation, data transformations using map, filter, reduce, and more.
 
-[Link to Working With Arrays](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/10-Working-With-Arrays)
+[Link to Working With Arrays](https://github.com/lele-sf/learning-javascript-zero-to-expert/tree/main/10-Arrays)
 
 ## Project 4: "Bankist" App
 

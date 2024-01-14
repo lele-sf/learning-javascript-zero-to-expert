@@ -2,7 +2,7 @@
 
 Welcome to the "Bankist" app project. This interactive banking application provides a simulated banking experience with multiple accounts and practical applications of array methods.
 
-[Live Preview](#)
+[Live Preview](https://lele-sf.github.io/learning-javascript-zero-to-expert/11-Bankist-App/)
 
 ## Features
 
